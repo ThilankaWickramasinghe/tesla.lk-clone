@@ -1,0 +1,20 @@
+/* @font-face {
+    font-family: "font";
+    src: url(../font/GothamSSm-Book_Web.woff2);
+} */
+/* @font-face {
+    font-family: "font";
+    src: url(../font/GothamSSm-Book_Web\ \(1\).woff2);
+} */
+@font-face {
+    font-family: "font";
+    src: url(../font/GothamSSm-Medium_Web.woff2);
+}
+@font-face {
+    font-family: "font";
+    src: url(../font/GothamSSm-Medium_Web\ \(1\).woff2);
+}
+html,body{
+    font-family: font;
+    font-size: 14px;
+}
